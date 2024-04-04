@@ -1,0 +1,18 @@
+body { 
+		text-align: center;
+		margin left: auto;
+		margin right: auto;
+		padding-left: 3%;
+		padding-right: 3%;
+}
+
+p,h2,dl,ol,ul {
+	text-align: left;
+}	
+
+dt {
+	font-weight: bold;
+	text-indent: 20px;
+}
+
+/*comment to!*/
